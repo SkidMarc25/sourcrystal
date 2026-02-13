@@ -527,7 +527,7 @@ PichuEggMoves:
 	db ENCORE
 	db FLAIL
 	db PRESENT
-	db THUNDERPUNCH
+	db DOUBLE_KICK
 	db -1 ; end
 
 CleffaEggMoves:
