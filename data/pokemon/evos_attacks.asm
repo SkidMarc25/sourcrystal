@@ -267,7 +267,7 @@ PidgeotEvosAttacks:
 	db 29, WING_ATTACK
 	db 37, AGILITY
 	db 45, MIRROR_MOVE
-	db 53, RAZOR_WIND
+	db 53, EXTREMESPEED
 	db 61, SKY_ATTACK
 	db 0 ; no more level-up moves
 
@@ -338,7 +338,7 @@ EkansEvosAttacks:
 	db 7, POISON_STING
 	db 12, BITE
 	db 16, GLARE
-	db 21, ACID
+	db 20, ACID
 	db 25, SCREECH
 	db 30, SLAM
 	db 34, HAZE
